@@ -1,0 +1,53 @@
+{
+  "regularPrice": 500,
+  "finalPrice": 500,
+  "devName": "[VIRTUAL]1 x TBD (SID_Placeholder_462) for 500 MtxCurrency",
+  "offerId": "v2:/abead4c0541b80f4a71a8ce1a3f5bc61ea5f935c04f8f801b65d0da72b108677",
+  "inDate": "2026-04-03T00:00:00Z",
+  "outDate": "2026-04-09T23:59:59.999Z",
+  "offerTag": {
+    "id": "sparksjamloop",
+    "text": "Listen and Jam with Friends or Perform on the Main Stage"
+  },
+  "giftable": true,
+  "refundable": false,
+  "sortPriority": -1,
+  "layoutId": "JT0403.99",
+  "layout": {
+    "id": "JT0403",
+    "name": "Jam Tracks",
+    "index": 17,
+    "rank": 185,
+    "showIneligibleOffers": "always",
+    "useWidePreview": false,
+    "displayType": "tileGrid"
+  },
+  "colors": {
+    "color1": "0e6463ff",
+    "color3": "0e5151ff",
+    "textBackgroundColor": "0e5151ff"
+  },
+  "tileSize": "Size_1_x_1",
+  "newDisplayAssetPath": "sid_placeholder_462",
+  "tracks": [
+    {
+      "id": "sid_placeholder_462",
+      "devName": "magicalcureloveshot",
+      "title": "M@GICAL☆CURE! LOVE SHOT!",
+      "artist": "SAWTOWNE ft. Hatsune Miku",
+      "releaseYear": 2023,
+      "bpm": 96,
+      "duration": 204,
+      "difficulty": {
+        "vocals": 5,
+        "guitar": 6,
+        "bass": 4,
+        "plasticBass": 4,
+        "drums": 5,
+        "plasticDrums": 5
+      },
+      "albumArt": "https://cdn.fortnite-api.com/tracks/907d65e6c42faa34.jpg",
+      "added": "2025-01-14T09:32:50Z"
+    }
+  ]
+}
